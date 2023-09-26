@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bonheur.Outlets.API.props" />
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\bin\Debug\net6.0\Bonheur.Outlets.Dataservice.deps.json
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\bin\Debug\net6.0\Bonheur.Outlets.Dataservice.runtimeconfig.json
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\bin\Debug\net6.0\Bonheur.Outlets.Dataservice.dll
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\bin\Debug\net6.0\Bonheur.Outlets.Dataservice.pdb
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\obj\Debug\net6.0\Bonheur.Outlets.Dataservice.csproj.AssemblyReference.cache
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\obj\Debug\net6.0\Bonheur.Outlets.Dataservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\obj\Debug\net6.0\Bonheur.Outlets.Dataservice.AssemblyInfoInputs.cache
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\obj\Debug\net6.0\Bonheur.Outlets.Dataservice.AssemblyInfo.cs
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\obj\Debug\net6.0\Bonheur.Outlets.Dataservice.csproj.CoreCompileInputs.cache
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\obj\Debug\net6.0\Bonheur.Outlets.Dataservice.dll
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\obj\Debug\net6.0\refint\Bonheur.Outlets.Dataservice.dll
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\obj\Debug\net6.0\Bonheur.Outlets.Dataservice.pdb
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\obj\Debug\net6.0\Bonheur.Outlets.Dataservice.genruntimeconfig.cache
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Dataservice\obj\Debug\net6.0\ref\Bonheur.Outlets.Dataservice.dll

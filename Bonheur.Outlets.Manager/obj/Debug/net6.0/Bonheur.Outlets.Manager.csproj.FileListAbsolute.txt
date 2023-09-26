@@ -1,0 +1,17 @@
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\bin\Debug\net6.0\Bonheur.Outlets.Manager.deps.json
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\bin\Debug\net6.0\Bonheur.Outlets.Manager.runtimeconfig.json
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\bin\Debug\net6.0\Bonheur.Outlets.Manager.dll
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\bin\Debug\net6.0\Bonheur.Outlets.Manager.pdb
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\bin\Debug\net6.0\Bonheur.Outlets.Dataservice.dll
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\bin\Debug\net6.0\Bonheur.Outlets.Dataservice.pdb
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\obj\Debug\net6.0\Bonheur.Outlets.Manager.csproj.AssemblyReference.cache
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\obj\Debug\net6.0\Bonheur.Outlets.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\obj\Debug\net6.0\Bonheur.Outlets.Manager.AssemblyInfoInputs.cache
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\obj\Debug\net6.0\Bonheur.Outlets.Manager.AssemblyInfo.cs
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\obj\Debug\net6.0\Bonheur.Outlets.Manager.csproj.CoreCompileInputs.cache
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\obj\Debug\net6.0\Bonheur.Outlets.Manager.csproj.CopyComplete
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\obj\Debug\net6.0\Bonheur.Outlets.Manager.dll
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\obj\Debug\net6.0\refint\Bonheur.Outlets.Manager.dll
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\obj\Debug\net6.0\Bonheur.Outlets.Manager.pdb
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\obj\Debug\net6.0\Bonheur.Outlets.Manager.genruntimeconfig.cache
+C:\Users\Anuj\source\repos\Bonheur.Outlets.API\Bonheur.Outlets.Manager\obj\Debug\net6.0\ref\Bonheur.Outlets.Manager.dll

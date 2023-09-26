@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Bonheur.Outlets.API.props" />
+</Project>
