@@ -1,1 +1,1 @@
-Scaffold-DbContext "server=localhost; port=3306; database=outlets; user=root; password=" Pomelo.EntityFrameworkCore.MySql -OutputDir EntityData/Outlets/Models -f
+Scaffold-DbContext "server=localhost; port=3306; database=outlets; user=root; password=;" Pomelo.EntityFrameworkCore.MySql -OutputDir EntityData/Outlets/Models -f
