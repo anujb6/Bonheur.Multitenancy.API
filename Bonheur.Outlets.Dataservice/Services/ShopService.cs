@@ -32,7 +32,7 @@ namespace Bonheur.Outlets.Dataservice.Services
 
         public async Task<string> GetConnectionStringAsync()
         {
-            var shopId = _httpContext.HttpContext.User.Claims.FirstOrDefault(x => x.Type.Equals("Shop_Id"))?.Value;
+            var shopId = _httpContext?.HttpContext?.User.Claims.FirstOrDefault(x => x.Type.Equals("Shop_Id"))?.Value;
             var connectionstring = await _outletContext.Shops.Where(x => x.Id == Int32.Parse(shopId)).Select(x => x.ConnectionString).FirstOrDefaultAsync();
             return connectionstring;
         }
@@ -72,7 +72,7 @@ namespace Bonheur.Outlets.Dataservice.Services
             }
 
             if (_outletContext.SaveChanges() > 0)
-            {
+            {       
                 responseModel.Message = "Added Shop Succesfully";
                 responseModel.Status = true;
             }
